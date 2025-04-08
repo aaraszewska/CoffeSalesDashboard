@@ -1,6 +1,27 @@
 # CoffeSalesDashboard
 I built a dashboard Coffe sales over time in Excel
 
+
+✅ Data Gathering: Used XLOOKUP and INDEX MATCH for precise data retrieval.
+
+✅ Data Cleaning & Formatting:
+
+Creating new columns (Coffee Type Name & Roast Type Name) with Multiple IF Functions.
+
+Checking and removing duplicate values from the dataset.
+
+✅ Visualization: Developed dynamic Pivot Tables with Line Chart, Bar Charts, and Pie Chart to analyze:
+
+✅ Sales Over Time (grouped by Year & Month).
+
+✅ Top 5 Customers
+
+✅ Sales by Country
+
+✅ Percent of Sale by Coffee Type
+
+✅ Insightful Slicers & Timelines for interactive filtering and trend exploration.
+
 Insights & Impact:
 
 ✅ Sales peaked in April, October, and December, aligning with seasonal demand.
